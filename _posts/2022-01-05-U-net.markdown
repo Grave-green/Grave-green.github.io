@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "U-Net:Convolution Network for Image Segmentation"
+date:   2022-01-05 18:00:00 GMT+9
+categories: ["deeplearning"]
+author: "N. Kim"
+---
+The U-Net architecture stems from the so-called “fully convolutional network” first proposed by Long, Shelhamer, and Darrell.
