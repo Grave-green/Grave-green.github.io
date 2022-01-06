@@ -1,0 +1,22 @@
+I"ª<h1 id="what-is-thickened-flame-model">WHAT IS THICKENED FLAME MODEL?</h1>
+<p><img src="https://github.com/Grave-green/grave-green.github.io/blob/7f8a490c7108b0af71ab363abb16f9872ca43ea0/_imgs/ThickenedFlame01.jpg?raw=true" alt="Concept of Thickened Flame Model" /></p>
+
+<p>In a practical CFD simulation, a thickness of turublent premixed flame is much smaller than the resolution of computational grid.
+This means the flame cannot be resolved in the simulation. 
+Obviously, using more refined mesh could be a solution and Adaptive Mesh Refinement could be use to resolve the flame.
+Another approach to solve this problem is the thickened flame model which automatically detecting flame region and artificially increase thickness of the flame.
+After the flame is thickened, the thickened flame can be resolved in the computational grid and account for a large scale interaction between flow and flame.</p>
+
+<h1 id="how-to-implement-this-idea">HOW TO IMPLEMENT THIS IDEA?</h1>
+
+\[{array}{ccc}
+x_{11} &amp; x_{12} &amp; x_{13}\\
+x_{21} &amp; x_{22} &amp; x_{23}
+{array}\]
+
+\[S_{L}^{0}\propto \sqrt{D\dot{\omega}}$\]
+
+<h1 id="pros-and-cons">PROS AND CONS</h1>
+
+<h1 id="references">REFERENCES</h1>
+:ET
