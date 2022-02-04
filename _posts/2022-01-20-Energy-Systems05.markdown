@@ -1,0 +1,35 @@
+---
+layout: post
+title:  "The Energy System 05 - Reintegrating the Energy System"
+date:   2022-01-20 11:00:00 GMT+9
+categories: ["energy"]
+author: "N. Kim"
+---
+
+![The Energy System](https://mitpress.mit.edu/sites/default/files/styles/large_book_cover/http/mitp-content-server.mit.edu%3A18180/books/covers/cover/%3Fcollid%3Dbooks_covers_0%26isbn%3D9780262037525%26type%3D.jpg?itok=wYsP4Hba){: width="75%" height="75%"}{: .center}
+<br>
+
+<div class="indent1">
+19장. 경제 시스템 상호작용 (Economic System Interactions)  <br>
+</div>
+
+<div class="indent1">
+20장. 생태계 상호작용 (Ecosystem Interactions) <br>
+</div>
+
+<br>
+
+<div class="indent1"> 
+앞의 1,2,3부는 전체 에너지 시스템안에서 크게 셋으로 구분되는 전기, 수송, 열에너지 공급망을 다루었다. 각각의 공급망에 대한 평가는 동적 특성, 한계, 혁신적 방법들을 이해하기 위해 1부에서 전개된 시스템적 사고와 해석의 도구들을 사용하였다. 이 마지막 장은 이 시스템들을 재통합하여 전체 시스템의 복합 총체적인 형태를 구성하고 에너지 공급망의 작동에 영향을 주고 제한하는 여타 다른 시스템의 맥락속에 놓을 것이다.
+</div>
+<div class="indent1"> 
+ 먼저 이장은 현대 산업경제 그리고 개발 경제에서 에너지와 경제의 상호 의존적인 연결을 포함하여 거시경제 속 에너지의 역할을 평가한다. 경제 성장과 번영 그리고 에너지 공급망 확대 경쟁의 동적특성 때문에 에너지의 역할과 경제의 에너지 의존성은 증폭되었다. 경제활동은 저비용으로 신뢰할 수 있는 에너지를 사용할 수 있을 때 가능하고 이에 한정된다. 그리고 에너지에 대한 수요는 시장에 접근을 지원하기위해서 필요한 어느 수준의 경제활동에 의해서 추동 된다 – 깊은 공생적인 시스템 관계.
+</div>
+
+<div class="indent1"> 
+국극적으로 에너지 시스템과 경제 시스템의 통합은 닫힌 계가 아니다. 이 또한 역시 더 큰 생태계속에서 천연자원이 투입되고 변환에 한계가 있는 또 변환에서 불필요한 부산물을 생성한다. 에너지와 경제 시스템의 기능에 가해지는 견딜 수 없는 불행을 피하기 위해서는 물 공기 그리고 무엇보다도 기후에 미치는 영향 등을 장기적이고 지속적인 형태로 다루어야 한다.
+</div>
+
+<div class="indent1"> 
+궁극적으로, 에너지 공급망을 경제 및 환경과 통합하여 넓히는 것은 에너지가 단지 번영과 진보의 수단이라는 점을 강조한다. 사회는 필수 불가결적으로 이 통합된 시스템의 동적 특성에 제한되며 자연적 재화와 인적 재화를 종합하여 때어낼 수 없는 목적들인 번영과 지속가능성을 다가올 시대에서 어떻게 성취할 것인지에 대한 중요한 선택을 하도록 한다.
+</div>
